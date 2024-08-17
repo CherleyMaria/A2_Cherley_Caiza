@@ -13,7 +13,7 @@ Este componente Stencil crea una tabla responsiva que se llena dinámicamente co
 
 Clona este repostitorio
 ```bash
-git clone (https://github.com/CherleyMaria/A2_Cherley_Caiza)
+git clone https://github.com/CherleyMaria/A2_Cherley_Caiza.git
 ```
 
 Dirigite al directorio de proyecto y accede al componente de stencil 
